@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in back end and front end development using spring/node for servers and react/react-native for web and mobile applications
-- 🌱 I’m currently learning Kotlin for Android development (for creating Android native modules in react-native apps)
-- 💞️ I’m looking to collaborate on spring applications.
+- 🌱 I’m currently using jenkins and gitlab for cicd, react-native to build mobile projects, and spring to build backend microservices
 - 📫 How to reach me seanmikerog@gmail.com
 
 <!---
